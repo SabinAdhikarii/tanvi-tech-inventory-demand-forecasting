@@ -226,10 +226,11 @@ GitHub: [SabinAdhikarii](https://github.com/SabinAdhikarii)
 
 ## 📞 Support
 
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/SabinAdhikarii/tanvi-tech-inventory-demand-forecasting).
+For questions or issues, please contact me at sabinofficial99@gmail.com).
 
 ---
 
 **Last Updated:** December 2025
+
 
 
