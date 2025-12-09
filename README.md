@@ -45,12 +45,12 @@ Choose one of the following methods:
 
 #### Method A: Using Git (Recommended)
 ```bash
-git clone https://github.com/manavisrani07/Inventory_demand_forecasting.git
+git clone https://github.com/SabinAdhikarii/tanvi-tech-inventory-demand-forecasting.git
 cd tanvi-inventory-demand-forecasting
 ```
 
 #### Method B: Download as ZIP
-1. Visit the GitHub repository: [Inventory_demand_forecasting](https://github.com/manavisrani07/Inventory_demand_forecasting)
+1. Visit the GitHub repository: [Inventory_demand_forecasting](https://github.com/SabinAdhikarii/tanvi-tech-inventory-demand-forecasting/)
 2. Click the **Code** button and select **Download ZIP**
 3. Extract the ZIP file to your desired location
 4. Open terminal/command prompt and navigate to the extracted folder:
@@ -231,4 +231,5 @@ For questions or issues, please open an issue on the [GitHub repository](https:/
 ---
 
 **Last Updated:** December 2025
+
 
