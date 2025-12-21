@@ -1,6 +1,6 @@
 ﻿# Retail Inventory Demand Forecasting System
 
-## 📋 Project Overview
+##  Project Overview
 
 The **Retail Inventory Demand Forecasting System** is a comprehensive data science and web application project designed to help retail businesses optimize their inventory management. This project combines machine learning models with an interactive web application to predict product demand, monitor inventory levels, and provide actionable insights for store managers and administrators.
 
@@ -32,7 +32,7 @@ The project uses the following Python libraries:
 
 ---
 
-## 📥 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - **Python 3.8 or higher** installed on your system
@@ -90,7 +90,7 @@ pip install streamlit==1.37.1 pandas==2.3.3 numpy==2.2.6 scikit-learn==1.7.2 xgb
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
 ### Running the Web Application
 
@@ -126,7 +126,7 @@ The notebook will open in your browser and contains:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 tanvi-inventory-demand-forecasting/
@@ -148,7 +148,7 @@ tanvi-inventory-demand-forecasting/
 
 ---
 
-## 📊 Using the Application
+##  Using the Application
 
 ### Navigation
 
@@ -171,7 +171,7 @@ The project uses a retail inventory dataset (`retail_store_inventory.csv`) conta
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -209,7 +209,7 @@ pip install jupyter
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve the project.
 
@@ -231,6 +231,7 @@ For questions or issues, please contact me at sabinofficial99@gmail.com).
 ---
 
 **Last Updated:** December 2025
+
 
 
 
